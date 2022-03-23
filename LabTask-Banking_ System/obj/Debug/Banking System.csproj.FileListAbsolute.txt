@@ -1,0 +1,14 @@
+C:\Users\ASUS\Desktop\OOC lab\Banking System\obj\Debug\Banking System.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\OOC lab\Banking System\obj\Debug\Banking System.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\OOC lab\Banking System\obj\Debug\Banking_System.Form1.resources
+C:\Users\ASUS\Desktop\OOC lab\Banking System\obj\Debug\Banking_System.Properties.Resources.resources
+C:\Users\ASUS\Desktop\OOC lab\Banking System\obj\Debug\Banking System.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\OOC lab\Banking System\obj\Debug\Banking System.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\OOC lab\Banking System\bin\Debug\Banking System.exe.config
+C:\Users\ASUS\Desktop\OOC lab\Banking System\bin\Debug\Banking System.exe
+C:\Users\ASUS\Desktop\OOC lab\Banking System\bin\Debug\Banking System.pdb
+C:\Users\ASUS\Desktop\OOC lab\Banking System\bin\Debug\Banking System Dependencies.dll
+C:\Users\ASUS\Desktop\OOC lab\Banking System\bin\Debug\Banking System Dependencies.pdb
+C:\Users\ASUS\Desktop\OOC lab\Banking System\obj\Debug\Banking System.csproj.CopyComplete
+C:\Users\ASUS\Desktop\OOC lab\Banking System\obj\Debug\Banking System.exe
+C:\Users\ASUS\Desktop\OOC lab\Banking System\obj\Debug\Banking System.pdb
