@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\OOC lab\Car_Rental_System\obj\Debug\Car_Rental_System.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\OOC lab\Car_Rental_System\obj\Debug\Car_Rental_System.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\OOC lab\Car_Rental_System\obj\Debug\Car_Rental_System.Form1.resources
+C:\Users\ASUS\Desktop\OOC lab\Car_Rental_System\obj\Debug\Car_Rental_System.Properties.Resources.resources
+C:\Users\ASUS\Desktop\OOC lab\Car_Rental_System\obj\Debug\Car_Rental_System.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\OOC lab\Car_Rental_System\obj\Debug\Car_Rental_System.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\OOC lab\Car_Rental_System\bin\Debug\Car_Rental_System.exe.config
+C:\Users\ASUS\Desktop\OOC lab\Car_Rental_System\bin\Debug\Car_Rental_System.exe
+C:\Users\ASUS\Desktop\OOC lab\Car_Rental_System\bin\Debug\Car_Rental_System.pdb
+C:\Users\ASUS\Desktop\OOC lab\Car_Rental_System\obj\Debug\Car_Rental_System.exe
+C:\Users\ASUS\Desktop\OOC lab\Car_Rental_System\obj\Debug\Car_Rental_System.pdb
