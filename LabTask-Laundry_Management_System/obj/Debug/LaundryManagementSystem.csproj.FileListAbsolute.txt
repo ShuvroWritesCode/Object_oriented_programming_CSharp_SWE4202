@@ -1,0 +1,22 @@
+C:\Users\ASUS\Desktop\OOC lab\LaundryManagementSystem\bin\Debug\LaundryManagementSystem.exe.config
+C:\Users\ASUS\Desktop\OOC lab\LaundryManagementSystem\bin\Debug\LaundryManagementSystem.exe
+C:\Users\ASUS\Desktop\OOC lab\LaundryManagementSystem\bin\Debug\LaundryManagementSystem.pdb
+C:\Users\ASUS\Desktop\OOC lab\LaundryManagementSystem\obj\Debug\LaundryManagementSystem.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\OOC lab\LaundryManagementSystem\obj\Debug\LaundryManagementSystem.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\OOC lab\LaundryManagementSystem\obj\Debug\LaundryManagementSystem.Form1.resources
+C:\Users\ASUS\Desktop\OOC lab\LaundryManagementSystem\obj\Debug\LaundryManagementSystem.Properties.Resources.resources
+C:\Users\ASUS\Desktop\OOC lab\LaundryManagementSystem\obj\Debug\LaundryManagementSystem.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\OOC lab\LaundryManagementSystem\obj\Debug\LaundryManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\OOC lab\LaundryManagementSystem\obj\Debug\LaundryManagementSystem.exe
+C:\Users\ASUS\Desktop\OOC lab\LaundryManagementSystem\obj\Debug\LaundryManagementSystem.pdb
+\\Mac\Home\Desktop\ShuvroWritesCode-Object_oriented_programming_CSharp\LaundryManagementSystem\bin\Debug\LaundryManagementSystem.exe.config
+\\Mac\Home\Desktop\ShuvroWritesCode-Object_oriented_programming_CSharp\LaundryManagementSystem\bin\Debug\LaundryManagementSystem.exe
+\\Mac\Home\Desktop\ShuvroWritesCode-Object_oriented_programming_CSharp\LaundryManagementSystem\bin\Debug\LaundryManagementSystem.pdb
+\\Mac\Home\Desktop\ShuvroWritesCode-Object_oriented_programming_CSharp\LaundryManagementSystem\obj\Debug\LaundryManagementSystem.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\ShuvroWritesCode-Object_oriented_programming_CSharp\LaundryManagementSystem\obj\Debug\LaundryManagementSystem.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\ShuvroWritesCode-Object_oriented_programming_CSharp\LaundryManagementSystem\obj\Debug\LaundryManagementSystem.Form1.resources
+\\Mac\Home\Desktop\ShuvroWritesCode-Object_oriented_programming_CSharp\LaundryManagementSystem\obj\Debug\LaundryManagementSystem.Properties.Resources.resources
+\\Mac\Home\Desktop\ShuvroWritesCode-Object_oriented_programming_CSharp\LaundryManagementSystem\obj\Debug\LaundryManagementSystem.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\ShuvroWritesCode-Object_oriented_programming_CSharp\LaundryManagementSystem\obj\Debug\LaundryManagementSystem.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\ShuvroWritesCode-Object_oriented_programming_CSharp\LaundryManagementSystem\obj\Debug\LaundryManagementSystem.exe
+\\Mac\Home\Desktop\ShuvroWritesCode-Object_oriented_programming_CSharp\LaundryManagementSystem\obj\Debug\LaundryManagementSystem.pdb

@@ -1,0 +1,19 @@
+C:\Users\ASUS\Desktop\OOC lab\TicTacToE1\obj\Debug\TicTacToE1.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\OOC lab\TicTacToE1\obj\Debug\TicTacToE1.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\OOC lab\TicTacToE1\obj\Debug\TicTacToE1.Form1.resources
+C:\Users\ASUS\Desktop\OOC lab\TicTacToE1\obj\Debug\TicTacToE1.Properties.Resources.resources
+C:\Users\ASUS\Desktop\OOC lab\TicTacToE1\obj\Debug\TicTacToE1.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\OOC lab\TicTacToE1\obj\Debug\TicTacToE1.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\OOC lab\TicTacToE1\bin\Debug\TicTacToE1.exe.config
+C:\Users\ASUS\Desktop\OOC lab\TicTacToE1\bin\Debug\TicTacToE1.exe
+C:\Users\ASUS\Desktop\OOC lab\TicTacToE1\bin\Debug\TicTacToE1.pdb
+C:\Users\ASUS\Desktop\OOC lab\TicTacToE1\obj\Debug\TicTacToE1.exe
+C:\Users\ASUS\Desktop\OOC lab\TicTacToE1\obj\Debug\TicTacToE1.pdb
+F:\TicTacToE1\obj\Debug\TicTacToE1.csproj.AssemblyReference.cache
+F:\TicTacToE1\obj\Debug\TicTacToE1.csproj.SuggestedBindingRedirects.cache
+F:\TicTacToE1\obj\Debug\TicTacToE1.Form1.resources
+F:\TicTacToE1\obj\Debug\TicTacToE1.Properties.Resources.resources
+F:\TicTacToE1\obj\Debug\TicTacToE1.csproj.GenerateResource.cache
+F:\TicTacToE1\obj\Debug\TicTacToE1.csproj.CoreCompileInputs.cache
+F:\TicTacToE1\obj\Debug\TicTacToE1.exe
+F:\TicTacToE1\obj\Debug\TicTacToE1.pdb

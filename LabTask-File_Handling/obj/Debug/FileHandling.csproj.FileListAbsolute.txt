@@ -1,0 +1,11 @@
+C:\Users\ASUS\Desktop\OOC lab\FileHandling\obj\Debug\FileHandling.csproj.AssemblyReference.cache
+C:\Users\ASUS\Desktop\OOC lab\FileHandling\obj\Debug\FileHandling.csproj.SuggestedBindingRedirects.cache
+C:\Users\ASUS\Desktop\OOC lab\FileHandling\obj\Debug\FileHandling.Form1.resources
+C:\Users\ASUS\Desktop\OOC lab\FileHandling\obj\Debug\FileHandling.Properties.Resources.resources
+C:\Users\ASUS\Desktop\OOC lab\FileHandling\obj\Debug\FileHandling.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\OOC lab\FileHandling\obj\Debug\FileHandling.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Desktop\OOC lab\FileHandling\bin\Debug\FileHandling.exe.config
+C:\Users\ASUS\Desktop\OOC lab\FileHandling\bin\Debug\FileHandling.exe
+C:\Users\ASUS\Desktop\OOC lab\FileHandling\bin\Debug\FileHandling.pdb
+C:\Users\ASUS\Desktop\OOC lab\FileHandling\obj\Debug\FileHandling.exe
+C:\Users\ASUS\Desktop\OOC lab\FileHandling\obj\Debug\FileHandling.pdb
